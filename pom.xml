@@ -381,8 +381,8 @@
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>cobertura-maven-plugin</artifactId>
-                <!-- <version>${cobertura.version}</version> -->
-                <version>2.5</version>
+                <version>${cobertura.version}</version>
+                <!-- <version>2.5</version> -->
                 <configuration>
                     <check />
                 </configuration>
